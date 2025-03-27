@@ -1,0 +1,14 @@
+Privacy Policy for ZeroClick Content Preview
+
+ZeroClick Content Preview is a Chrome extension that provides users with the ability to view webpage previews by hovering over links. 
+
+Data Collection:
+This extension does NOT collect, store, or transfer any user data. It only temporarily fetches webpage content upon user interaction (hovering over links) to display relevant previews. The fetched content is not saved, shared, or used for any other purposes.
+
+Data Usage:
+The only purpose of fetching content is to enhance the user's browsing experience by displaying a quick preview of links without requiring a click. No information is stored locally or transmitted to external servers.
+
+Data Sharing:
+ZeroClick Content Preview does not share any data with third parties.
+
+If you have any questions or concerns about this privacy policy, please contact us at anirudhreddyk3@gmail.com 
